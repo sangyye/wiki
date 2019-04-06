@@ -1,4 +1,4 @@
-NerdMate Podcast 1
+Nerdmate Podcast 1
 ##################
 
 Geplante Podcast-Zeit: 60min   

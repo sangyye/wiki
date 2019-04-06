@@ -9,23 +9,14 @@ Have a Lot of fun. Christian
 
 Follow me on `Twitter <https://twitter.com/sangyye>`_ and `Github <https://github.com/sangyye>`_.
 
-Inhalt
-======
-
 Projekte
---------
-  * [[projekte:skripte|Skripte]]
-  * [[projekte:pepol|Perl Podcast Loader]]
-  * [[projekte:suicide_linux|Suicide Linux]]
-  * [[projekte:wiki|Wiki auf Git basis]]
-  * [[projekte:buecherverwaltung|Eine Bücherverwaltung in Ruby]] //(coming soon)//
-  * [[projekte:rbnotes|Ein Notizen App in Ruby]]
-  * [[projekte:copter:start|Der Quadrocopter]]
+========
+  * :doc:`project_quadrocopter`
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
    :hidden:
 
 .. toctree::
@@ -43,6 +34,13 @@ Projekte
    :glob:
    
    nerdmate/*
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Projects
+   :hidden:
+
+   project_quadrocopter
 
 .. toctree::
    :caption: Meta

@@ -1,4 +1,4 @@
-NerdMate Podcast 5
+Nerdmate Podcast 5
 ##################
 
 Folge über Raspberry Pi und embedded Computing

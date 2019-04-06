@@ -1,5 +1,5 @@
-Podcast NerdMate, Folge 2
-#########################
+Nerdmate Podcast 2
+##################
 
 Geplante Podcast-Zeit: 60min
 Geplante Aufnahme: Mittwoch 14. Februar 2012, abends\\

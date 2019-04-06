@@ -1,5 +1,5 @@
-Podcast Zwischen Nerd und Mate, Folge 4
-#######################################
+Nerdmate Podcast 4
+##################
 
 Geplante Podcast-Zeit: 60-80min
 Geplante Aufnahme: Freitag 29.07.12

@@ -1,6 +1,9 @@
 # Fix link with spelling mistake
 /howto/piwik_on_uperspace /howto/piwik_on_uberspace.html
 
+#Fix Project link
+/projekte/copter/start			/project_quadrocopter.html
+
 # Fix Howto links
 /howto/piwik_on_uberspace 		/howto/piwik_on_uberspace.html
 /howto/cgit_einrichten			/howto/cgit_einrichten.html   

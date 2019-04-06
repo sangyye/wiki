@@ -5,7 +5,7 @@ So da ich das letzte mal mit der Installation von [[http://blog.sangyye.de/2012/
 
 Also fangen wir mit der Grundeinrichtung an wir hatten bisher das in unsere cgitrc geschrieben
 
-.. code-block:: console
+.. code-block:: bash
 
   virtual-root=/git
   enable-index-links=1
@@ -19,7 +19,7 @@ Die anderen Einstellung sind so gut gewählt und sorgen dafür das cgit gut auss
 
 Erst mal verfrachten wir das Repo auf den uberspace. Also ihr habt das Gitrepo lokal auf euren Rechner liegen und wollt das auf den Server in den Ordner `repos` bekommen den ihr vorher angelegt habt.
 
-.. code-block:: console
+.. code-block:: bash
 
   git clone --bare testrepo testrepo.git
   scp -r test testrepo.git $ubernaut.$server.uberspace.de:repos/
@@ -29,7 +29,7 @@ Erst mal verfrachten wir das Repo auf den uberspace. Also ihr habt das Gitrepo l
 
 Dann wäre das erledigt und man muss das Repo nur noch in die cgitrc auf dem uberspace eintragen.
 
-.. code-block:: console
+.. code-block:: bash
 
   repo.url=testrepo #Das wird der linkname für cgit z.B. git.domain.tld/testrepo
   repo.path=/home/$ubernaut/repos/testrepo.git/ #Pfad zu repo

@@ -7,9 +7,10 @@ Willkommen auf Sangyye's Wiki!
 ==============================
 Have a Lot of fun. Christian
 
-Follow me on [[http://twitter.com/sangyye|Twitter]], [[http://identi.ca/sangyye|Identi.ca]] and [[http://github.com/sangyye|Github]].
+Follow me on `Twitter <https://twitter.com/sangyye>`_ and `Github <https://github.com/sangyye>`_.
 
-===== News =====
+News
+====
   * [18 Jul 2013] Hinzufügen des [[nerdmate|Nerdmate Podcast]]
   * [19 Jan 2013] Hinzufügen der Kategorie [[howto|Howtos]]
   * [24 Feb 2011] Hinzufügen des [[projekte:copter:start|Quadrocopter-Projekt]] zur Projekt-Liste
@@ -18,9 +19,11 @@ Follow me on [[http://twitter.com/sangyye|Twitter]], [[http://identi.ca/sangyye|
   * [03 August 2009] Das Wikiblog ist nicht so der bringer(rssfeed fehlt), nun ein neues einfachers blogsystem gefunden.
   * [28 Juni 2009] Das Wiki wird um einen Blog ergänzt und der alte Blog wird eingestampft.
 
-===== Inhalt =====
+Inhalt
+======
 
-==== Projekte ====
+Projekte
+--------
   * [[projekte:skripte|Skripte]]
   * [[projekte:pepol|Perl Podcast Loader]]
   * [[projekte:suicide_linux|Suicide Linux]]
@@ -29,10 +32,12 @@ Follow me on [[http://twitter.com/sangyye|Twitter]], [[http://identi.ca/sangyye|
   * [[projekte:rbnotes|Ein Notizen App in Ruby]]
   * [[projekte:copter:start|Der Quadrocopter]]
 
-==== Infos ====
+Infos
+-----
   * [[:dienste|Dienste]]
 
-==== Fachhochschule Niederrhein ====
+Fachhochschule Niederrhein
+--------------------------
   * [[hsnr:ias|Interaktive Systeme]]
   * [[hsnr:gra|Graphische Datenverarbeitung]]
   * Praktika [[hsnr:ooa|Objektorientierte Anwendungsentwicklung]] 
@@ -47,7 +52,7 @@ Follow me on [[http://twitter.com/sangyye|Twitter]], [[http://identi.ca/sangyye|
    :maxdepth: 1
    :glob:
 
-   howto_*
+   howto/*
 
 .. toctree::
    :caption: Nerdmate

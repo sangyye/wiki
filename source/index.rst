@@ -9,8 +9,18 @@ Have a Lot of fun. Christian
 
 Follow me on `Twitter <https://twitter.com/sangyye>`_ and `Github <https://github.com/sangyye>`_.
 
+Inhalt
+======
+
+Howtos
+------
+  * :doc:`howto/cgit_einrichten`
+  * :doc:`howto/cgit_on_uberspace`
+  * :doc:`howto/piwik_on_uberspace`
+  * :doc:`howto/sinatra_on_uberspace`
+
 Projekte
-========
+--------
   * :doc:`project_quadrocopter`
 
 

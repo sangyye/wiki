@@ -1,4 +1,4 @@
-cgit on uberspace
+cgit on Uberspace
 #################
 
 Also zuerst muss ich sagen die Installation von cgit ist nicht ganz einfach, weil es das Kompilieren von Code und arbeiten auf der Shell verlangt. Daher sind minimale Kenntnisse schon nötig und jeder der sich das nicht zutraut sollte ehr Abstand von der Installation nehmen.

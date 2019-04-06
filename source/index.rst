@@ -9,16 +9,6 @@ Have a Lot of fun. Christian
 
 Follow me on `Twitter <https://twitter.com/sangyye>`_ and `Github <https://github.com/sangyye>`_.
 
-News
-====
-  * [18 Jul 2013] Hinzufügen des [[nerdmate|Nerdmate Podcast]]
-  * [19 Jan 2013] Hinzufügen der Kategorie [[howto|Howtos]]
-  * [24 Feb 2011] Hinzufügen des [[projekte:copter:start|Quadrocopter-Projekt]] zur Projekt-Liste
-  * [16 Dez 2010] Benutzung des Vector Templates
-  * [11 März 2010] Hinzufügen des "[[projekte:wiki|Python-Wiki mit Git-Backend]]" zur Projektliste
-  * [03 August 2009] Das Wikiblog ist nicht so der bringer(rssfeed fehlt), nun ein neues einfachers blogsystem gefunden.
-  * [28 Juni 2009] Das Wiki wird um einen Blog ergänzt und der alte Blog wird eingestampft.
-
 Inhalt
 ======
 
@@ -32,19 +22,11 @@ Projekte
   * [[projekte:rbnotes|Ein Notizen App in Ruby]]
   * [[projekte:copter:start|Der Quadrocopter]]
 
-Infos
------
-  * [[:dienste|Dienste]]
 
-Fachhochschule Niederrhein
---------------------------
-  * [[hsnr:ias|Interaktive Systeme]]
-  * [[hsnr:gra|Graphische Datenverarbeitung]]
-  * Praktika [[hsnr:ooa|Objektorientierte Anwendungsentwicklung]] 
-  * [[hsnr:bsy|Betriebssysteme]]
-  * [[hsnr:web|WEB]]
-  * [[hsnr:mpt:start|Mikroprozessortechnik]]
-
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   :hidden:
 
 .. toctree::
    :caption: Howtos
@@ -61,11 +43,6 @@ Fachhochschule Niederrhein
    :glob:
    
    nerdmate/*
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   :hidden:
 
 .. toctree::
    :caption: Meta

@@ -1,0 +1,2 @@
+#This will reroot the old links to the new ones
+/howto/*  /howto/:splat.html

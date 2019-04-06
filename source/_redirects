@@ -1,2 +1,15 @@
-#This will reroot the old links to the new ones
-/howto/*  /howto/:splat.html
+# Fix link with spelling mistake
+/howto/piwik_on_uperspace /howto/piwik_on_uberspace.html
+
+# Fix Howto links
+/howto/piwik_on_uberspace 		/howto/piwik_on_uberspace.html
+/howto/cgit_einrichten			/howto/cgit_einrichten.html   
+/howto/cgit_on_uberspace		/howto/cgit_on_uberspace.html
+/howto/sinatra_on_uberspace		/howto/sinatra_on_uberspace.html
+
+# Fix Nerdmate Links
+/nerdmate/episode001			/nerdmate/episode001.html
+/nerdmate/episode002			/nerdmate/episode002.html
+/nerdmate/episode003			/nerdmate/episode003.html
+/nerdmate/episode004			/nerdmate/episode004.html
+/nerdmate/episode005			/nerdmate/episode005.html

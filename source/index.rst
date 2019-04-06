@@ -54,8 +54,3 @@ Projekte
    Changelog <https://github.com/sangyye/wiki/commits/master>
    Impressum <https://sangyye.de/impressum/>
    Privacy <https://sangyye.de/datenschutzerklaerung/>
-
-Indices and tables
-==================
-
-* :ref:`genindex`

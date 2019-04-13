@@ -94,6 +94,7 @@ html_theme_options = {
 html_static_path = ['_static']
 html_extra_path = ['_redirects']
 
+html_show_copyright = False
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #

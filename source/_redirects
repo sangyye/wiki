@@ -1,18 +1,18 @@
 # Fix link with spelling mistake
-/howto/piwik_on_uperspace /howto/piwik_on_uberspace.html
+/howto/piwik_on_uperspace /howto/piwik_on_uberspace.html 301!
 
 #Fix Project link
-/projekte/copter/start			/project_quadrocopter.html
+/projekte/copter/start			/project_quadrocopter.html		301!
 
 # Fix Howto links
-/howto/piwik_on_uberspace 		/howto/piwik_on_uberspace.html
-/howto/cgit_einrichten			/howto/cgit_einrichten.html   
-/howto/cgit_on_uberspace		/howto/cgit_on_uberspace.html
-/howto/sinatra_on_uberspace		/howto/sinatra_on_uberspace.html
+/howto/piwik_on_uberspace 		/howto/piwik_on_uberspace.html		301!
+/howto/cgit_einrichten			/howto/cgit_einrichten.html		301!
+/howto/cgit_on_uberspace		/howto/cgit_on_uberspace.html		301!
+/howto/sinatra_on_uberspace		/howto/sinatra_on_uberspace.html	301!
 
 # Fix Nerdmate Links
-/nerdmate/episode001			/nerdmate/episode001.html
-/nerdmate/episode002			/nerdmate/episode002.html
-/nerdmate/episode003			/nerdmate/episode003.html
-/nerdmate/episode004			/nerdmate/episode004.html
-/nerdmate/episode005			/nerdmate/episode005.html
+/nerdmate/episode001			/nerdmate/episode001.html		301!
+/nerdmate/episode002			/nerdmate/episode002.html		301!
+/nerdmate/episode003			/nerdmate/episode003.html		301!
+/nerdmate/episode004			/nerdmate/episode004.html		301!
+/nerdmate/episode005			/nerdmate/episode005.html		301!

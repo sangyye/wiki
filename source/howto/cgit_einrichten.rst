@@ -1,7 +1,7 @@
 cgit einrichten
 ###############
 
-So da ich das letzte mal mit der Installation von [[http://blog.sangyye.de/2012/04/cgit-on-uberspace/|Cgit auf dem uberspace]] beschäftigt habe, wollte ich diesmal so ein bisschen darauf eingehen was man nun damit machen kann.
+So da ich das letzte mal mit der Installation von `Cgit auf dem uberspace <http://blog.sangyye.de/2012/04/cgit-on-uberspace/>`_ beschäftigt habe, wollte ich diesmal so ein bisschen darauf eingehen was man nun damit machen kann.
 
 Also fangen wir mit der Grundeinrichtung an wir hatten bisher das in unsere cgitrc geschrieben
 

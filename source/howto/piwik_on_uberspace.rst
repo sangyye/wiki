@@ -13,19 +13,22 @@ Wie bekomme ich das tolle Teil nun auf meinen Uberspace?
 
 Nichts leichter als das =) Und dauert auch nur knapp 5 Minuten.   
 Entweder auf der Konsole via ssh
-<code>mkdir -p tmp && cd tmp
-wget http://piwik.org/latest.zip
-unzip latest.zip
-mv piwik/ ../html
-</code>
+
+.. code-block:: bash
+
+	mkdir -p tmp && cd tmp
+	wget http://piwik.org/latest.zip
+	unzip latest.zip
+	mv piwik/ ../html
+
 Und nun habt ihr unter deine-domain.de/piwik oder eurer uberspace Seite im Unterverzeichniss /piwik (da sogar mit ssl)
-Wer lieber seinen sftp Client nutzt, einfach das [[http://piwik.org/latest.zip|latest.zip]] runterladen, entpacken. Und in das Verzeichniss html schieben. Fertig.
+Wer lieber seinen sftp Client nutzt, einfach das `latest.zip <http://piwik.org/latest.zip>`_ runterladen, entpacken. Und in das Verzeichniss html schieben. Fertig.
 Nur noch eben den Link aufrufen und sein piwik mit den mysql daten füttern und grundeinrichten. Das wars.
 
 Ja, das ist ja alles toll, nur wie bekommen ich das nun in mein Wordpress?
 ==========================================================================
 
-Das ist sogar sehr einfach, einfach das [[http://wordpress.org/extend/plugins/wp-piwik/|WP-piwik Plugin]] installieren.
+Das ist sogar sehr einfach, einfach das `WP-piwik Plugin <http://wordpress.org/extend/plugins/wp-piwik/>`_ installieren.
 Dann sich bei seinem piwik einloggen und oben am Rand gibt es einen Menupunkt API. Dort bekommt man den Authkey den man
 zusammen mit der URL (deine-domain.de/piwik) in die Einstellungen des wp-piwik eintragen. Dann rennt das Teil und generiert Statistiken.
 

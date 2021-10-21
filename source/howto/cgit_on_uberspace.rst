@@ -63,7 +63,7 @@ Dann brauchen wir noch eine einfach cgitrc zur Steuerung von cgit. Also wieder z
   enable-commit-graph=1
   snapshots=tar.gz tar.bz zip
 
-So jetzt sollte unter eurer uberspace Adresse (z.B. http://%ubernaut.%server.uberspace.de/git) euer leeres cgit ohne jede Repos zu sehen sein. Wie ihr eigne Repos hinzufügt könnt ihr nun in der [[http://git.zx2c4.com/cgit/tree/cgitrc.5.txt|manpage zu cgitrc]] nachlesen.
+So jetzt sollte unter eurer uberspace Adresse (z.B. http://%ubernaut.%server.uberspace.de/git) euer leeres cgit ohne jede Repos zu sehen sein. Wie ihr eigne Repos hinzufügt könnt ihr nun in der `manpage zu cgitrc <http://git.zx2c4.com/cgit/tree/cgitrc.5.txt>`_ nachlesen.
 
 cgit als subdomain
 ==================
